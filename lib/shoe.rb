@@ -5,7 +5,6 @@ class Shoe
   BRANDS = []
   def initialize(brand)
     @brand = brand
-    if brand != brand then
     BRANDS << brand
   end
   end
